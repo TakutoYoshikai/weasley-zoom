@@ -1,6 +1,10 @@
 # weasley-zoom
 This is a tool to close ZOOM window automatically at given time. 
 
+### Requirements
+* macOS
+* Python3
+
 ### Usage
 **install**
 ```bash
