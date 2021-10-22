@@ -8,16 +8,14 @@ This is a tool to close ZOOM window automatically at given time.
 ### Usage
 **install**
 ```bash
-git clone https://github.com/TakutoYoshikai/weasley-zoom.git
-cd weasley-zoom
-pip3 install -r requirements.txt
+pip3 install git+https://github.com/TakutoYoshikai/weasley-zoom.git
 ```
 
 **set timer**
 ```bash
-python3 weasley.py <HOUR> <MINUTE>
+weasley-zoom <HOUR> <MINUTE>
 # Example: close ZOOM window at 13:15.
-# python3 weasley.py 13 15 
+# weasley-zoom 13 15 
 ```
 
 Next, you have to click ZOOM window and focus on ZOOM window because this program uses keyboard shortcut.
