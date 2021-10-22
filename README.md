@@ -4,6 +4,7 @@ This is a tool to close ZOOM window automatically at given time.
 ### Requirements
 * macOS
 * Python3
+* Permission of accessibility on your terminal
 
 ### Usage
 **install**
