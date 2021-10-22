@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 ```bash
 python3 weasley.py <HOUR> <MINUTE>
 # Example: close ZOOM window at 13:15.
-# python3 weasley.py 13:15 
+# python3 weasley.py 13 15 
 ```
 
 **focus on ZOOM window by your click**
