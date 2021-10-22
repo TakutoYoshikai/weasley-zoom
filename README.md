@@ -21,6 +21,7 @@ python3 weasley.py <HOUR> <MINUTE>
 ```
 
 **focus ZOOM window by your click**
+
 Next, you must click ZOOM window because this program use keyboard shortcut.
 
 ### LICENSE
