@@ -3,7 +3,6 @@ import time
 import datetime
 import sys
 
-
 def main():
     hour = int(sys.argv[1])
     minute = int(sys.argv[2])
