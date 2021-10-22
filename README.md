@@ -1,5 +1,5 @@
 # weasley-zoom
-This is a tool to close ZOOM window at any time. 
+This is a tool to close ZOOM window automatically at given time. 
 
 ### Usage
 **install**
