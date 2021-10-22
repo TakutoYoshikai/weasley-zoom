@@ -20,7 +20,7 @@ python3 weasley.py <HOUR> <MINUTE>
 # python3 weasley.py 13 15 
 ```
 
-Next, you have to click ZOOM window and focus on ZOOM window because this program use keyboard shortcut.
+Next, you have to click ZOOM window and focus on ZOOM window because this program uses keyboard shortcut.
 
 ### LICENSE
 MIT LICENSE
