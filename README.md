@@ -19,7 +19,7 @@ weasley-zoom <HOUR> <MINUTE>
 # weasley-zoom 13 15 
 ```
 
-Next, you have to click ZOOM window and focus on ZOOM window because this program uses keyboard shortcut.
+Next, you have to click ZOOM window and focus on ZOOM window because this program uses keyboard shortcut of ZOOM.
 
 ### LICENSE
 MIT LICENSE
